@@ -6,10 +6,7 @@ Interactive Streamlit dashboard analyzing survey data from digital professionals
 
 ## Requirements
 
-streamlit </br>
-pandas </br>
-numpy </br>
-plotly </br>
+% pip install -r requirements.txt
 
 ## Running the Application
 
@@ -55,6 +52,7 @@ streamlit-survey-project/ </br>
 - Pandas for data manipulation
 - Plotly for interactive visualizations
 - NumPy for numerical operations
+
 
 
 
