@@ -6,10 +6,10 @@ Interactive Streamlit dashboard analyzing survey data from digital professionals
 
 ## Requirements
 
-streamlit
-pandas
-numpy
-plotly
+streamlit </br>
+pandas </br>
+numpy </br>
+plotly </br>
 
 ## Running the Application
 
@@ -17,20 +17,20 @@ streamlit run app.py
 
 ## Project Structure
 
-streamlit-survey-project/
-├── app.py                 # Main application
-├── README.md             # Documentation
-├── data/
-│   └── sondage-metiers-numeriques.csv
-├── sections/
-│   ├── intro.py          # Context and objectives
-│   ├── overview.py       # High-level insights
-│   ├── deep_dives.py     # Detailed analysis
-│   └── conclusions.py    # Findings and recommendations
-└── utils/
-    ├── io.py             # Data loading functions
-    ├── prep.py           # Data preparation and cleaning
-    └── viz.py            # Visualization functions
+streamlit-survey-project/ </br>
+├── app.py                 # Main application </br>
+├── README.md             # Documentation </br>
+├── data/ </br>
+│   └── sondage-metiers-numeriques.csv </br>
+├── sections/ </br>
+│   ├── intro.py          # Context and objectives </br>
+│   ├── overview.py       # High-level insights </br>
+│   ├── deep_dives.py     # Detailed analysis </br>
+│   └── conclusions.py    # Findings and recommendations </br>
+└── utils/ </br>
+    ├── io.py             # Data loading functions </br>
+    ├── prep.py           # Data preparation and cleaning </br>
+    └── viz.py            # Visualization functions </br>
 
 
 ## Features
@@ -55,5 +55,6 @@ streamlit-survey-project/
 - Pandas for data manipulation
 - Plotly for interactive visualizations
 - NumPy for numerical operations
+
 
 
